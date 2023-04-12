@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "username": "Areej",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTko77-D8iFeUJBBvwbKF13pT7hGRjG-I8WchDwzQLXSJ661dEJCqjGc5vpPfp5v3YjKkw&usqp=CAU",
+    "time":"from 8 to 12 am",
+    "workingtime":"From Sunday to Thursday",
+     "age":"28",
+     "place":"illizi",
+     "Rais":"Rimal neighborhood",
+     "information":"A babysitter for children between the ages of 1 and 3",
+     "price":"120DA",
+      "phon":"0513859642",
+      "medical":"master2",
+  
+ 
+  }
+  {
+    "id": 2,
+    "username": "Aya",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbddnJJvogSpWiimNeg4sOqSEzJk-oXCN2jg&usqp=CAU",
+    "time":"from 8 to 1 am",
+    "workingtime":"from Sunday to Thursday",
+     "age":"30",
+     "place":"janete",
+     "Rais":"District 20 June",
+     "information":"Quranic school",
+     "price":"200DA",
+      "phon":"0294714",
+      "medical":"master2",
+  
+ 
+  }
+  {
+    "id": 3,
+    "username": "maner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznoeiScmIzWregibwXpSzgDXOfq8bLGuZiQ&usqp=CAU",
+    "time":"from 8 am to 4 pm",
+    "workingtime":"From Sunday to Thursday",
+     "age":"35",
+     "place":"ourglae",
+     "Rais":"Flowers neighborhood",
+     "information":"Kindergarten for disabled children",
+     "price":"150DA",
+      "phon":"095381833",
+      "medical":"secondary",
+  
+ 
+  }
+  {
+    "id": 4,
+    "username": "Mariam",
+    "image": "https://img.freepik.com/photos-gratuite/plein-coup-mere-bebe-souriant-jouant_23-2149320452.jpg",
+    "time":"from 8 am to 3pm",
+    "workingtime":"From Sunday to Thursday ",
+     "age":"38",
+     "place":"illizi",
+     "Rais":"Rimal neighborhood",
+     "information":"A babysitter for children between the ages of 1 and 3",
+     "price":"300DA",
+      "phon":"0513859647",
+      "medical":"master1",
+  
+ 
+  }
+   {
+    "id": 5,
+    "username": " Rayane",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYnHW-RORuH1yyVsLlroxOXmFeH2hQruikmqHK0HwHyjYpcYXLLFFQYYymkka5gTk_XE&usqp=CAU",
+    "time":"From9 am to 3 pm",
+    "workingtime":"From Sunday to Wenesday ",
+     "age":"38",
+     "place":"Anaba",
+     "Rais":"Martyr's neighborhood",
+     "information":"A babysitter for children between the ages of 1 and 3",
+     "price":"400DA",
+      "phon":"06658321",
+      "medical":"secondary",
+  
+ 
+  }
+ 
+  
+  
+    ]
